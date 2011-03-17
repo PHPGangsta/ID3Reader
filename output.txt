@@ -1,0 +1,91 @@
+####### de77.com #######
+Working on file mp3s/Jonay Ft Jasmine Kara - Skydiving.mp3
+Array
+(
+)
+Working on file mp3s/Meditative.mp3
+Array
+(
+)
+Working on file mp3s/The Vision.mp3
+Array
+(
+)
+Working on file mp3s/Heroines.mp3
+Array
+(
+)
+Working on file mp3s/5-jahre-cre.mp3
+Array
+(
+)
+Working on file mp3s/Security Now 195_ SSL.mp3
+Array
+(
+    [Artist] => Steve Gibson with Leo Laporte
+    [Genre] => Podcast
+    [Title] => Security Now 195: SSL
+)
+####### Zend/Media/Id3v1 #######
+Working on file mp3s/Jonay Ft Jasmine Kara - Skydiving.mp3
+Title: Jonay Ft Jasmine Kara - Skydiv
+Album: Skydiving
+Year: 2009
+Working on file mp3s/Meditative.mp3
+Title: Meditative
+Album: Epoch Symbol
+Year: 2009
+Working on file mp3s/The Vision.mp3
+Title: The Vision
+Album: Epoch Symbol
+Year: 2009
+Working on file mp3s/Heroines.mp3
+Title: Heroines
+Album: The Butcher's Ballroom
+Year: 2009
+Working on file mp3s/5-jahre-cre.mp3
+No ID3v1 Tag found.
+Working on file mp3s/Security Now 195_ SSL.mp3
+Title: Security Now 195: SSL
+Album: Security Now May2009
+Year: 2009
+####### Zend/Media/Id3v2 #######
+Working on file mp3s/Jonay Ft Jasmine Kara - Skydiving.mp3
+No ID3v2 Tag found.
+Working on file mp3s/Meditative.mp3
+No ID3v2 Tag found.
+Working on file mp3s/The Vision.mp3
+No ID3v2 Tag found.
+Working on file mp3s/Heroines.mp3
+No ID3v2 Tag found.
+Working on file mp3s/5-jahre-cre.mp3
+No ID3v2 Tag found.
+Working on file mp3s/Security Now 195_ SSL.mp3
+Title: Security Now 195: SSL
+Album: Security Now!
+ImageType: 3
+####### getID3 #######
+Working on file mp3s/Jonay Ft Jasmine Kara - Skydiving.mp3
+Jonay Ft Jasmine Kara - Skydiving
+204791.51884701
+4:07
+Working on file mp3s/Meditative.mp3
+Meditative
+154655.14609039
+12:34
+Working on file mp3s/The Vision.mp3
+The Vision
+187549.73006338
+2:57
+Working on file mp3s/Heroines.mp3
+Heroines
+198948.92712551
+5:23
+Working on file mp3s/5-jahre-cre.mp3
+5 Jahre CRE
+128000
+11:06
+Working on file mp3s/Security Now 195_ SSL.mp3
+Security Now 195: SSL
+64000
+85:26
